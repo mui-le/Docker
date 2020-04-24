@@ -12,6 +12,6 @@
 * [Image registries and Docker Store](#Dockerhub)
 * [Container isolation](#container-isolation)
 
-###**1.0 Running first container **
+###Running first container
 
 
